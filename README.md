@@ -12,7 +12,7 @@ _Friday 20th May, 14:30 - 15:30 hrs - by [Pierre-Alexandre Clorichel](https://tw
 
 >Going through the strength and weakness of PHP key features, studying the lifecycle of a PHP request, before bootstrapping a personal website using PHP from scratch.
 
-Get an introduction to PHP and build, step by step, your personal website. The code written during this session will be delivered right here with slides at the end of the session !
+Get an introduction to PHP and build, step by step, your personal website. The code written during this session has been delivered [right here](/PHP-01-1-JumpStart) !
 
 ## Symfony Live Paris – L’Afterhour
 
