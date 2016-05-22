@@ -26,7 +26,7 @@ _Saturday 21st May, 11:30 - 12:30 hrs - by [Pierre-Alexandre Clorichel](https://
 
 >From handmade autoloading to using Composer as a dependency management tool, we will dive in how we can create better PHP applications at all development stages : designing, hardcoding, testing and deploying.
 
-This second step is leveraging the code written during the first session, refactoring it while learning new concepts that will make the initial fully functional personal website ready to face new challenges. The code written during this session will be delivered right here too with slides at the end of the session !
+This second step is leveraging the code written during the first session, refactoring it while learning new concepts that will make the initial fully functional personal website ready to face new challenges. The code written during this session has been delivered [right here](/PHP-01-2-Architecture) !
 
 ## Using a framework to build world class application
 
