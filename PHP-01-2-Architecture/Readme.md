@@ -8,8 +8,11 @@ From handmade autoloading to using Composer as a dependency management tool, we 
 
 - From a set of source code files to a designed layout
 - Wrapping concepts in classes
-- Understanding closure / anonymous functions
 - Autoloading your code manually
+- Understanding closure / anonymous functions
+- PSR-0 and PSR-4 autoloading standard
+- PHP libraries and dependency management with Composer
+- How PSRs and Composer changed PHP world
 
 ## Setting up your environment
 
